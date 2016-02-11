@@ -1,0 +1,16 @@
+{
+  "name": "exemplo-ut",
+  "version": "1.0.0",
+  "description": "exemplo de como usar o mocha para fazer testes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ygor Santos",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "mockery": "^1.4.0",
+    "sinon": "^1.17.3"
+  }
+}
